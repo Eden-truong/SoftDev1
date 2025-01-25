@@ -1,15 +1,13 @@
 1
 Your Bedroom
-you just woke up lmao, it's a monday morning at 10AM?? you're gonna be late get ready for class!
-you can either go EAST to your walk-in closet or NORTH out the door
+you just woke up lmao, it's a monday morning at 10AM?? you're gonna be late get ready for class! you can either go EAST to your walk-in closet or NORTH out the door
 ----
 EAST 2
 NORTH 3
 ----
 2
 Your Hallway
-blahblahblah
-you can go NORTH to your bathroom or SOUTH back into your bedroom or EAST to your Kitchen
+blahblahblah you can go NORTH to your bathroom or SOUTH back into your bedroom or EAST to your Kitchen
 ----
 NORTH 4
 SOUTH 1
